@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "MST.h"
+#include "mst.h"
 #include "read_file.h"
 #include "tsp.h"
 #include "max_flow.h"
