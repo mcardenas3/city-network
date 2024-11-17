@@ -57,4 +57,5 @@ std::vector<Edge> kruskal(int vertices, std::vector<Edge>& edges, int& total_wei
     return mst_edges;
 }
 
+
 #endif
