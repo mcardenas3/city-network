@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
-#include "graph.h"
-#include "utils.h"
+#include "MST.h"
+#include "read_file.h"
 #include "tsp.h"
 #include "max_flow.h"
 #include "nearest_central.h"

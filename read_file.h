@@ -1,5 +1,5 @@
-#ifndef UTILS_H
-#define UTILS_H
+#ifndef READ_FILES_H
+#define READ_FILES_H
 
 #include <vector>
 #include <string>

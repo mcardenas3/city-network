@@ -1,5 +1,5 @@
-#ifndef GRAPH_H
-#define GRAPH_H
+#ifndef MST_H
+#define MST_H
 
 #include <vector>
 #include <algorithm>
